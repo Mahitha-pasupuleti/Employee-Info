@@ -5,5 +5,11 @@ html {
 body {
     margin: 0;
     min-height: 100vh;
-    background: dodgerblue;
+}
+
+.emp-div {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
 }
